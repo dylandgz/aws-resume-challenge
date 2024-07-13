@@ -1,6 +1,5 @@
-# Node modules
+# Ignore node modules
 node_modules/
-npm-debug.log
 
 # Logs
 logs/
@@ -44,4 +43,3 @@ __pycache__/
 # Operating system files
 .DS_Store
 Thumbs.db
-k
