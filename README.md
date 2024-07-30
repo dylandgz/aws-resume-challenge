@@ -14,8 +14,6 @@ This project is a comprehensive demonstration of my skills in cloud engineering,
 
 ## Hosting and Services
 
-## Hosting and Services
-
 The following AWS services were used to host and manage the website:
 
 1. **Cloudflare**: Provides DNS services and domain registration.
