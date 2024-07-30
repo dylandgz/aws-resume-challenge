@@ -7,5 +7,5 @@ This project creates an AWS architecture diagram using the `diagrams` Python lib
 - `architecture_diagram.py`: Main script to generate the architecture diagram.
 - `README.md`: Project documentation.
 
-![AWS resume system design](relative/path/to/image.png)
+![AWS resume system design](aws-resume-system-design.png)
 
