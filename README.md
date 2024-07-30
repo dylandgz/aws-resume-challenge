@@ -1,6 +1,6 @@
 
 
-# Dylan Dominguez's Personal Website
+# AWS Cloud Resume
 
 Welcome to the repository for my personal website, [ddstechpath.com](http://ddstechpath.com).
 
