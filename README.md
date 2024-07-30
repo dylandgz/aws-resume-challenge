@@ -1,2 +1,2 @@
-![AWS resume system design](aws-resume-system-design.png)
+![AWS resume system design](images/aws-cloud-cloud-resume-system-design.png)
 
