@@ -16,15 +16,6 @@ This project is a comprehensive demonstration of my skills in cloud engineering,
 
 The following AWS services were used to host and manage the website:
 
-- **Cloudflare**: Used to purchase the domain.
-- **AWS CloudFront**: Utilized as a CDN to deliver the website content efficiently.
-- **AWS S3**: Hosts the static files for the website.
-- **AWS Lambda**: Runs the backend API for counting site visits.
-- **AWS DynamoDB**: Stores the number of site visits.
-- **GitHub Actions**: Manages the CI/CD pipeline.
-
-### Service Descriptions
-
 1. **Cloudflare**: Provides DNS services and domain registration.
 2. **AWS CloudFront**: A CDN that speeds up the delivery of your website content by caching it at edge locations around the world.
 3. **AWS S3**: A scalable storage service used to host the static files of the website.
