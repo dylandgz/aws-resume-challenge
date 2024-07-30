@@ -38,5 +38,5 @@ This project has been instrumental in teaching me the foundational aspects of ho
 
 ## Links
 
-- [Personal Website](http://ddstechpath.com)
-- [Cloud Resume Challenge](link-to-cloud-resume-challenge)
+- [Personal Website](https://ddstechpath.com)
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
