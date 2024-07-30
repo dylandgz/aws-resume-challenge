@@ -11,7 +11,7 @@ This project is a comprehensive demonstration of my skills in cloud engineering,
 ## Architecture
 
 ![AWS resume system design](images/aws-cloud-cloud-resume-system-design.png)
-<img src="images/aws-cloud-cloud-resume-system-design.png" alt="Project Architecture" width="600">
+<img src="images/aws-cloud-cloud-resume-system-design.png" alt="Project Architecture" width="800">
 
 ## Hosting and Services
 
