@@ -2,7 +2,7 @@
 
 # AWS Cloud Resume
 
-Welcome to the repository for my personal website, [ddstechpath.com](http://ddstechpath.com).
+Welcome to the repository for my personal website, [ddstechpath.com](http://www.ddstechpath.com).
 
 ## Overview
 
